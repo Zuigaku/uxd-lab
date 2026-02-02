@@ -1,0 +1,8 @@
+{
+  "name": "ob_ai_LINE",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "raw-body": "^2.5.2"
+  }
+}
